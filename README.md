@@ -6,5 +6,5 @@
 
 #### Práctica 2 - Calculadora 🎯
 
-[Ir a práctica HTML](https://github.com/MsNutria/Mission-Back-End/tree/main/Tarea%20calculadora)
+[Ir a práctica 2](https://github.com/MsNutria/Mission-Back-End/tree/main/Tarea%20calculadora)
 
